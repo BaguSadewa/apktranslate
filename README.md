@@ -1,0 +1,2 @@
+# apktranslate
+ini apk translate
